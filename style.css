@@ -27,17 +27,17 @@
 
 .cat1 {
     background-image: linear-gradient(to right, #FF9C35, #fffb00);
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 .cat2 {
     background-image: linear-gradient(to top, #FF589B, #fd6ca6);
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 .cat3 {
     background-image: linear-gradient(to right, #5395ff, #2678fd);
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 .cat1, .cat2, .cat3 {

@@ -17,3 +17,80 @@
     border-radius: 7px;
     padding: 10px 20px;
 }
+
+.buy-now-button2 {
+    background-color: #000000;
+    border: none;
+    border-radius: 7px;
+    padding: 10px 20px;
+}
+
+.cat1 {
+    background-image: linear-gradient(to right, #FF9C35, #fffb00);
+    border-radius: 15px;
+}
+
+.cat2 {
+    background-image: linear-gradient(to top, #FF589B, #fd6ca6);
+    border-radius: 15px;
+}
+
+.cat3 {
+    background-image: linear-gradient(to right, #5395ff, #2678fd);
+    border-radius: 15px;
+}
+
+.cat1, .cat2, .cat3 {
+    padding: 10px 20px;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.pro-display {
+    background-color: #F8F8F8;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 5px 5px 8px lightgray;
+}
+
+.see-all {
+    color: orange;
+    text-decoration: none;
+}
+
+.see-all:hover {
+    color: rgb(247, 117, 10);
+}
+
+.bag-show {
+    padding-bottom: 120px;
+}
+
+.newsletter-box {
+    background-color: #FEEAE9;
+    border-radius: 10px;
+    height: 300px;
+}
+
+.btn-danger {
+    padding: 10px 20px;
+    background-color: #FF589B;
+}
+
+.input-group {
+    width: 500px;
+}
+
+@media (max-width: 768px) {
+    .input-group {
+        width: 300px;
+    }
+
+    .newsletter-box {
+        width: fit-content;
+    }
+}
